@@ -1,0 +1,21 @@
+console/src-tauri/nsis-languages/TradChinese.nsh
+  s_72fdcb6e0d0b7e::t_052946560007f6 1-36
+console/src-tauri/tauri.conf.json
+  s_72fdcb6e0d0b7e::t_73e6c7ee5eb9b8 60,70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "39060cf2f0c5cc309ec0bc0baccaf4aa440b96a0",
+  "prompts": {},
+  "sessions": {
+    "s_72fdcb6e0d0b7e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a7959792-ba8a-49a5-89e7-1fffd8a7f44a",
+        "model": "unknown"
+      },
+      "human_author": "楊清雲 <41539966+TW199501@users.noreply.github.com>"
+    }
+  }
+}
